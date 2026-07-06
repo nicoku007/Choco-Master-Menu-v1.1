@@ -1,4 +1,4 @@
-# Choco-Master-Menu [NOW ON IDGAMES!] https://www.doomworld.com/idgames/utils/frontends/chocomenu
+
 Choco-Master-Menu for Chocolate Doom. (Iwads, custom wads, Master Levels, Maximum Doom).
 
 Description: Choco-Master-Menu is a launcher I created for Chocolate Doom. My main idea was to create a  menu for the Master Levels in Chocolate Doom, because there isn't anything like  Doom-it for this source port,  but as I progressed with the launcher, I decided to add some more features such as multiplayer, the possibility  of playing with custom wads, Maximum Doom,  recording demos, etc.  The launcher was created using the C# programming language.                       
