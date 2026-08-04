@@ -2,6 +2,9 @@
 # Choco-Master-Menu for Chocolate Doom (Iwads, custom wads, Master Levels, Maximum Doom). Choco-Master-Menu now on idgames!: https://www.doomworld.com/idgames/utils/frontends/chocomenu
 
 ![choco v1.1  image u.png](https://github.com/nicoku007/Choco-Master-Menu-v1.1/blob/main/choco%20v1.1%20%20image%20u.png?raw=true )
+
+-Available colors for the launcher-
+
 ![Colors.png](https://github.com/nicoku007/Choco-Master-Menu-v1.1/blob/main/Colors.png?raw=true )
 
 
